@@ -1,3 +1,5 @@
-module github.com/vishalpaliwal79/ecom.git
+module github.com/vishalpaliwal79/ecom
 
 go 1.22.5
+
+require github.com/gorilla/mux v1.8.1
