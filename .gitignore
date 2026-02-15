@@ -1,0 +1,20 @@
+# binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# go build
+bin/
+dist/
+
+# go modules cache
+vendor/
+
+# editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
